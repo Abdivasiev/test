@@ -1,0 +1,62 @@
+body{
+    background-image: url('https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg');
+    padding-bottom: 600px;
+    padding-top: 10px;
+}
+.container{
+    max-width: 600px;
+}
+
+.card {
+    margin-top: 5px;
+    border-radius: 15px;
+}
+
+.lol {
+    margin-top: 5px;
+}
+
+.knopka, .knopka_del, .knopka_upd {
+    width: 20px;
+}
+
+.list-group, .form-control-lg {
+    border-radius: 15px;
+}
+
+
+.btn-success {
+    border-radius: 15px;
+}
+
+.galochka {
+    border-radius: 15px;
+}
+
+.tasks {
+    background-image: url('https://media.istockphoto.com/videos/background-color-map-abstract-video-id911854996?s=640x640');
+}
+
+.signup {
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+
+.signup-header {
+    margin-bottom: 15px;
+}
+
+.knopka_up {
+    padding: 5px 202px;
+}
+
+.knopka_in {
+    padding: 5px 246px;
+}
+
+.table_user {
+    align-self: center;
+    padding-bottom: 20px;
+}
